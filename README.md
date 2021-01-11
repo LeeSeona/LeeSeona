@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 ## Lee Seona 이선아
 
 📚 Student : the department of Software Engineering 📚
+
+***
